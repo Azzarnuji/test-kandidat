@@ -7,6 +7,8 @@ Untuk backend nya menggunakan Laravel
 
 pada folder ./frontend jalankan perintah npm install dan npm run dev
 
-pada folder root laravel jalankan perintah php artisan serve --port 8000
+pada folder root laravel jalankan perintah 
+composer install
+php artisan serve --port 8000
 
 kemudian buka di browser http://localhost:5173
